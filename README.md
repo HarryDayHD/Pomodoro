@@ -1,5 +1,5 @@
 # Pomodoro
-A very *simple* and short Bash script to allow you to use [The Pomodoro Technique](http://pomodorotechnique.com/).
+A very *simple* and *short* Bash script to allow you to use [The Pomodoro Technique](http://pomodorotechnique.com/).
 
 Idea from [a StackOverflow Answer](http://superuser.com/a/669811)
 
